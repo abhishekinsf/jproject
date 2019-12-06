@@ -1,0 +1,5 @@
+com\cass\Application.class
+com\cass\cassandra\PersonRepository.class
+com\cass\CassandraConfig.class
+com\cass\cassandra\Person.class
+com\cass\cassandra\PersonKey.class
